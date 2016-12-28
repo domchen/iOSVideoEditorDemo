@@ -68,7 +68,6 @@
 		F2BC84301DD5D2350046D98B /* bird_51.png in Resources */ = {isa = PBXBuildFile; fileRef = F2BC83FB1DD5D2350046D98B /* bird_51.png */; };
 		F2BC84311DD5D2350046D98B /* bird_52.png in Resources */ = {isa = PBXBuildFile; fileRef = F2BC83FC1DD5D2350046D98B /* bird_52.png */; };
 		F2BC84321DD5D2350046D98B /* bird_53.png in Resources */ = {isa = PBXBuildFile; fileRef = F2BC83FD1DD5D2350046D98B /* bird_53.png */; };
-		F2BC84341DD5ECC60046D98B /* bird.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = F2BC84331DD5ECC60046D98B /* bird.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -137,7 +136,6 @@
 		F2BC83FB1DD5D2350046D98B /* bird_51.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird_51.png; sourceTree = "<group>"; };
 		F2BC83FC1DD5D2350046D98B /* bird_52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird_52.png; sourceTree = "<group>"; };
 		F2BC83FD1DD5D2350046D98B /* bird_53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird_53.png; sourceTree = "<group>"; };
-		F2BC84331DD5ECC60046D98B /* bird.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = bird.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -230,7 +228,6 @@
 				F2BC83E91DD5D2350046D98B /* bird_33.png */,
 				F2BC83EA1DD5D2350046D98B /* bird_34.png */,
 				F2BC83EB1DD5D2350046D98B /* bird_35.png */,
-				F2BC84331DD5ECC60046D98B /* bird.mp4 */,
 				F2BC83EC1DD5D2350046D98B /* bird_36.png */,
 				F2BC83ED1DD5D2350046D98B /* bird_37.png */,
 				F2BC83EE1DD5D2350046D98B /* bird_38.png */,
@@ -316,7 +313,6 @@
 			files = (
 				F2BC84101DD5D2350046D98B /* bird_19.png in Resources */,
 				F2BC840C1DD5D2350046D98B /* bird_15.png in Resources */,
-				F2BC84341DD5ECC60046D98B /* bird.mp4 in Resources */,
 				F2BC84321DD5D2350046D98B /* bird_53.png in Resources */,
 				F2BC84081DD5D2350046D98B /* bird_11.png in Resources */,
 				F2BC841A1DD5D2350046D98B /* bird_29.png in Resources */,
